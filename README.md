@@ -14,3 +14,4 @@ Following files are included here:
 
 6.svm_4label_rbf Model is saved
   
+7. Live_detector.PNG - example image of data used for testing at run time
